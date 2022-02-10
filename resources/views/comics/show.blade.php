@@ -4,7 +4,7 @@
     <div class="container py-2">
         <div class="row">
             <div class="col-3">
-                <img src="{{$comic['thumb']}}" alt="">
+                <img src="{{$comic['image']}}" alt="">
             </div>
             <div class="col-9">
                 <h2>Title: {{$comic['title']}}</h2>
